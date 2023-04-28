@@ -22,4 +22,5 @@
 ## VK образование
 
 [Диплом eng](https://data.vk.company/curriculum/certificates/download/5031/20777ea9-02f1-4e88-86ae-040685707bf4/)
+
 [Диплом рус](https://data.vk.company/curriculum/certificates/download/4991/5dd9a216-b35f-4476-8f5a-f86effd41f01/)
